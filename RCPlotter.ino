@@ -1,4 +1,4 @@
-//Remote Control SCARA Cursive Plotter
+//Remote Control Parallel SCARA Cursive Plotter
 // By Donovan Magryta 
 // composed of two SCARA arms
 // small arm for control input, and a larger arm for moving a marker which mimics the small arm movement
