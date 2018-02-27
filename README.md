@@ -1,5 +1,5 @@
 # SCARAParrot
-# Electronic Pantograph - Robot arm copies small manual pen movement onto large whiteboard.
+# Electronic Cursive Pantograph - Robot arm copies small manual pen movement onto large whiteboard.
 
 # Simple and fun beginner Arduino project well suited to Arduino classes at schools, makerspaces, and MOOCs.
 
